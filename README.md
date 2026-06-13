@@ -6,6 +6,9 @@
 
 # Marketing Funnel & Conversion Analysis Dashboard
 
+## Data Set Used
+ - Bank Marketing Campaign Dataset (UCI Machine Learning Repository)
+
 
 ## Tools Used
 - Power BI
